@@ -11,3 +11,4 @@ EMAILTLWOUT2025
 <img width="600" height="363" alt="solteiross" src="https://github.com/user-attachments/assets/fbfa494a-7742-46c7-81d2-92ad9bc1113d" />
 <img width="600" height="363" alt="casadoss" src="https://github.com/user-attachments/assets/654e8d48-1f2f-4929-a3cb-5bc6438a826b" />
 <img width="3028" height="1408" alt="logo" src="https://github.com/user-attachments/assets/7393cd8f-94dc-4a4f-8455-432f67f97bc3" />
+<img width="962" height="166" alt="bt" src="https://github.com/user-attachments/assets/e8b6579a-1164-401c-91bb-760495b9e73c" />
