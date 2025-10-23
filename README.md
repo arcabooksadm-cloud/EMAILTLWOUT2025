@@ -7,3 +7,4 @@ EMAILTLWOUT2025
 <img width="1713" height="8193" alt="bgva" src="https://github.com/user-attachments/assets/6ebfc766-296c-4654-a6b9-4833d71e55c8" />
 <img width="1713" height="8193" alt="bga" src="https://github.com/user-attachments/assets/1274fe2d-c32b-4ece-bc1b-5d204adc22dc" />
 <img width="1713" height="8193" alt="bgac" src="https://github.com/user-attachments/assets/5815ea90-ca55-4e4f-8b2f-32174a0074b2" />
+<img width="600" height="363" alt="trio" src="https://github.com/user-attachments/assets/b0c2d4bb-d3c2-44cd-9fa6-ec914f6edb37" />
