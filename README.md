@@ -6,3 +6,4 @@ EMAILTLWOUT2025
 <img width="600" height="661" alt="CARD 1" src="https://github.com/user-attachments/assets/88af3bf4-0e23-4779-80b9-503b7cf1bf0a" />
 <img width="1713" height="8193" alt="bgva" src="https://github.com/user-attachments/assets/6ebfc766-296c-4654-a6b9-4833d71e55c8" />
 <img width="1713" height="8193" alt="bga" src="https://github.com/user-attachments/assets/1274fe2d-c32b-4ece-bc1b-5d204adc22dc" />
+<img width="1713" height="8193" alt="bgac" src="https://github.com/user-attachments/assets/5815ea90-ca55-4e4f-8b2f-32174a0074b2" />
